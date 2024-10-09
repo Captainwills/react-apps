@@ -1,0 +1,44 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color:black;
+  background-color:aliceblue;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+
+
+}
+
+.Goggi{
+  background-color: #157f7f;
+  color: azure;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding:10px;
+  text-align: center;
+
+
+}
+
+h3{
+  background-color: rgb(223, 230, 236);
+  border: 10px solid;
+  border-color: rgb(150, 188, 188);
+}
+
+.market-items{
+  border:5px solid #157f7f;
+
+}
+
+.buy{
+   border: 3px solid gray;
+}

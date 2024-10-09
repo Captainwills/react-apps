@@ -1,0 +1,37 @@
+#root {
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+
+}
+
+.market-items{
+ display:flex;
+ gap:25px 45px;
+ padding-left:12vw;
+ align-self: center;
+ align-content: justify;
+ 
+  }
+
+  .buys{
+    border:none;
+    text-align: center;
+    text-wrap:inherit;
+  }
+  .buys:hover{
+      background-color: rgb(117, 211, 151);
+      border:none;
+      
+  }
+
+ .sell:hover{
+  background-color: rgb(233, 142, 142);
+ }
+
+ .stake:hover{
+  background-color: aqua;
+  
+ }
